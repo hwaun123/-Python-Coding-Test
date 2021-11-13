@@ -1,2 +1,2 @@
-# Hello Python
+# Solving Algorithm Problems with Python
 
